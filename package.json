@@ -1,22 +1,27 @@
 {
-    "name": "Banesso",
-    "displayName": "Banesso",
-    "description": "Dark theme, Canesso's life-based.",
-    "version": "0.0.1",
-    "publisher": "parof",
-    "engines": {
-        "vscode": "^1.19.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Banesso",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Banesso-color-theme.json"
-            }
-        ]
-    }
+	"name": "Banesso",
+	"displayName": "Banesso",
+	"description": "Dark theme, Canesso's life-based.",
+	"version": "0.0.1",
+	"publisher": "parof",
+	"engines": {
+		"vscode": "^1.19.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Banesso",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Banesso-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "e5821391-de84-41b2-8cd3-aa1e7f6582e5",
+		"publisherDisplayName": "parof",
+		"publisherId": "f4cbdfc1-998a-4378-93e5-d70158bfaf34"
+	}
 }
