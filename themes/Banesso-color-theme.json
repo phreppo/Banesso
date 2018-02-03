@@ -13,7 +13,7 @@
 	  "sideBar.background": "#2c2c2c",
 	  "sideBar.border" : "#000000",
 	  "input.background": "#3d3d3d",
-	  "input.border": "#00ff73",
+	  "input.border": "#30be4f",
 	  "list.focusBackground": "#414141",
 	  "tab.inactiveBackground": "#292929",
 	  "editorGroupHeader.tabsBackground": "#1b1b1b",
@@ -202,7 +202,7 @@
 		"name": "Inherited class",
 		"scope": "entity.other.inherited-class",
 		"settings": {
-		  "foreground": "#16C98D"
+		  "foreground": "#30be4f"
 		}
 	  },
 	  {
