@@ -18,7 +18,8 @@
 	  "tab.inactiveBackground": "#292929",
 	  "editorGroupHeader.tabsBackground": "#1b1b1b",
 	  "titleBar.activeBackground": "#ff0000",
-	  "statusBar.background": "#b49920"
+		"statusBar.background": "#b49920",
+		"statusBar.noFolderBackground": "#b49920"
 	},
 	"tokenColors": [{
 		"settings": {

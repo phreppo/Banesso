@@ -1,8 +1,8 @@
 {
     "name": "Banesso",
     "displayName": "Banesso",
-    "description": "Dark theme, Canesso's life-based.",
-    "version": "0.1.0",
+    "description": "Dark theme, just like Canesso's soul.",
+    "version": "0.1.4",
     "publisher": "parof",
     "engines": {
         "vscode": "^1.19.0"
@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "sheep-icon.png",
     "contributes": {
         "themes": [
             {
