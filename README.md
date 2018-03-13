@@ -1,2 +1,2 @@
-#Banesso
-Banesso color theme.
+# Banesso
+Banesso color theme for Visual Studio Code.
